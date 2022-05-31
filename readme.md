@@ -2,8 +2,8 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Minceraft
-*	Theme Version: 1.0
-*	Theme Date: 2022-05-19
+*	Theme Version: 1.1
+*	Theme Date: 2022-05-31
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3 (Non-commercial use only)
@@ -16,6 +16,10 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 
 *
 * https://codepen.io/SimonDiligues/pen/gObEyym
+* License: MIT
+
+*
+* https://github.com/IanLunn/Hover
 * License: MIT
 
 *
