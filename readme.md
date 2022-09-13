@@ -7,7 +7,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3 (Non-commercial use only)
-*	Source code: https://github.com/YourGitHubName/ThemeName
+*	Source code: https://github.com/JulianPrieber/minceraft
 
 
 ### Used assets:
