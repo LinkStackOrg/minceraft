@@ -1,5 +1,5 @@
-# A LittleLink Custom Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# A LinkStack Theme
+Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Minceraft
 *	Theme Version: 1.5
@@ -7,7 +7,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3 (Non-commercial use only)
-*	Source code: https://github.com/JulianPrieber/minceraft
+*	Source code: https://github.com/LinkStackOrg/minceraft
 
 
 ### Used assets:
