@@ -2,7 +2,7 @@
 Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Minceraft
-*	Theme Version: 1.7
+*	Theme Version: 1.
 *	Theme Date: 2022-05-31
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
