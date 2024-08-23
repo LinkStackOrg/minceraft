@@ -20,7 +20,7 @@ Down below, you can find a few examples using this function:
 
 <style> 
 @font-face{font-family:'mctit';src:url('{{themeAsset('mctitle.ttf')}}')}
-@font-face{font-family:'mctxt';src:url('{{themeAsset('mctitle.ttf')}}')}
+@font-face{font-family:'mctxt';src:url('{{themeAsset('mctxt.ttf')}}')}
 
   html {
     font-size: 100%; }
